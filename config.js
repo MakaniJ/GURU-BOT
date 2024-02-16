@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254758732775', 'Makani™', true],
-  ['254758732775', 'maldives®', true], 
+  ['254773440758', 'Makani™', true],
+  ['254773440758', 'maldives®', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['254758732775','254104567966'] 
-global.prems = ['254758732775', '254104567966', '919398758484']
+global.mods = ['254773440758','254104567966'] 
+global.prems = ['254773440758', '254104567966', '919398758484']
 global.allowed = ['254758732775', '254104567966', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
